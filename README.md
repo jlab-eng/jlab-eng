@@ -4,13 +4,13 @@
 
 M.S. student in Management Science and Engineering at Beihang University, with a background in Mechanical Engineering and research experience in operations research, optimization, and electric transportation systems.
 
-My research interests focus on **computational decision-making models for transportation and logistics systems**. I am particularly interested in optimization, scheduling, smart mobility, logistics and supply chain systems, as well as in exploring how **machine learning and AI can be integrated with optimization methods** to support better operational and strategic decision-making.
+My research interests focus on **computational decision-making models for transportation and logistics systems**. I am particularly interested in optimization, scheduling, smart mobility, logistics and supply chain systems, as well as in exploring the intersection of **machine learning and operations research methods** to support better decision-making.
 
 ## 🔬 Current Research
 
 ### Battery-Electric Bus Charging Optimization
 
-I am currently developing a MILP framework for **Battery-Electric Bus Fleet Charging and Scheduling Optimization**. This research focuses on coordinating fleet charging while considering realistic operational and infrastructure constraints. Future research may explore **large-scale optimization for mixed-technology fleets**.
+I am currently developing a MILP framework for **Battery-Electric Bus Fleet Charging and Scheduling Optimization**. This research focuses on coordinating fleet charging while considering realistic operational and infrastructure constraints. Future research directions include exploring **data-driven optimization and heuristic methods for mixed-technology fleets**.
 
 The model is implemented in **Python** and solved using **Gurobi Optimizer**.
 
@@ -21,7 +21,7 @@ The model is implemented in **Python** and solved using **Gurobi Optimizer**.
 - **Logistics, Supply Chain & Resource Scheduling**
 - **Data-Driven Optimization & AI-Assisted Decision-Making**
 
-## 🧠 Methods & Tools
+## ⚙️ Methods & Tools
 
 **Optimization:** MILP · Scheduling · Resource Allocation  
 **Programming & Modeling:** Python · Gurobi  
